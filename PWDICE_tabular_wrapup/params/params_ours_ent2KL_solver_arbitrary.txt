@@ -1,0 +1,4 @@
+N_expert_traj 10000
+TA_expert_traj 10000
+noise_level 1
+TA_optimality 0

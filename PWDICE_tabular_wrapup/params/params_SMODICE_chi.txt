@@ -1,0 +1,6 @@
+N_expert_traj 5
+TA_expert_traj 1000
+grid_size 9
+max_step 40
+noise_level 0.1
+TA_optimality -19
