@@ -1,2 +1,2 @@
 # PW-DICE
-Codebase for NeurIPS2023 OTML workshop "Offline Imitation from Observation via Primal Wasserstein State Occupancy Matching"
+Codebase for ICML 2024 paper "Offline Imitation from Observation via Primal Wasserstein State Occupancy Matching"; readme coming soon
