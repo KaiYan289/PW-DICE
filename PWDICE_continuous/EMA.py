@@ -1,5 +1,5 @@
 # reference: https://zhuanlan.zhihu.com/p/68748778
-class EMA():
+class EMA(): 
     def __init__(self, model, decay):
         self.model = model
         self.decay = decay
